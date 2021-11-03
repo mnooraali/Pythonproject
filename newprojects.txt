@@ -1,0 +1,5 @@
+manar@gmail.com:manar:manar:1000:2020-01-01:2020-11-11
+manar@gmail.com:mano:manooo:200:2020-05-05:2020-11-11
+mido@gmail.com:mymido:mymido:200:2020-01-01:2020-11-11
+sara@gmail.com:mysara:mysara:500:2020-10-10:2020-11-11
+ahmed@gmail.com:ahmed:ahmed:2000:2020-01-01:2020-05-05
